@@ -1,6 +1,8 @@
-# multi-llm
+# SYNAPSEX-AI
 
 #  Hybrid Multi-Agent LLM System with Iterative Refinement & Benchmark Evaluation
+
+
 
 ##  Overview
 
