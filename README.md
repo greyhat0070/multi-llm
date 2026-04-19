@@ -1,4 +1,20 @@
+
 # SYNAPSEX-AI
+
+<img width="977" height="795" alt="synapse-logo" src="https://github.com/user-attachments/assets/74f1aff7-08f3-4479-8ad4-735d8f10e974" />
+
+<img width="1897" height="1047" alt="image" src="https://github.com/user-attachments/assets/f1297fa0-b882-4c0c-961e-10325fae154b" />
+
+<img width="1880" height="1025" alt="image" src="https://github.com/user-attachments/assets/dbc0f139-f180-4a59-a395-a1d2adc08418" />
+
+<img width="1881" height="1032" alt="image" src="https://github.com/user-attachments/assets/24a0cb4c-f137-4545-8d85-f934aa5ee2d3" />
+
+<img width="1912" height="1040" alt="image" src="https://github.com/user-attachments/assets/2e79424d-e157-471a-8dda-682f311797f7" />
+
+
+
+
+
 
 #  Hybrid Multi-Agent LLM System with Iterative Refinement & Benchmark Evaluation
 
